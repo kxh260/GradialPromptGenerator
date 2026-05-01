@@ -1,1 +1,1 @@
-# GradialPromptGenerator
+# Gradial Prompt Generator
